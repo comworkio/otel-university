@@ -1,6 +1,6 @@
 # OpenTelemetry university
 
-Title: "OpenTelemetry, ou comment simplifier l'observabilité pour les développeurs comme pour les ops et la rendre interopérable"
+Title: "OpenTelemetry, ou comment simplifier l'observabilité pour les développeurs comme pour les SRE et la rendre interopérable"
 
 ## Abstract
 
@@ -12,7 +12,7 @@ Que vous en sachiez peu ou beaucoup sur l'observabilité ou OpenTelemetry, venez
 
 ## Elevator pitch
 
-Cette université à pour but de montrer qu'il n'a jamais été aussi simple pour un développeur ou une développeuse d'ajouter des logs, traces et métriques de façon standard dans ses applications grâce à OpenTelemetry ainsi que pour des SRE ou ops de remplacer des solutions d'observabilité par d'autres pour faire face à des problèmes que l'on rencontre plus tard (comme la nécéssité de devenir hautement disponible ou une explosion des coûts en production du à l'augmentation de la volumétrie).
+Cette université à pour but de montrer qu'il n'a jamais été aussi simple pour un développeur ou une développeuse d'ajouter des logs, traces et métriques de façon standard dans ses applications grâce à OpenTelemetry ainsi que pour des SRE de remplacer des solutions d'observabilité par d'autres pour faire face à des problèmes que l'on rencontre plus tard (comme la nécéssité de devenir hautement disponible ou une explosion des coûts en production du à l'augmentation de la volumétrie).
 
 ## Notes
 
