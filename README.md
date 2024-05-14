@@ -1,6 +1,6 @@
 # OpenTelemetry university
 
-Title: "OpenTelemetry, ou comment simplifier l'observabilité pour les développeurs comme pour les SRE et la rendre interopérable"
+Title: "De l'ops jusqu'au dev, simplifiez votre observabilité avec OpenTelemetry"
 
 ## Abstract
 
