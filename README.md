@@ -16,6 +16,6 @@ Cette université à pour but de montrer qu'il n'a jamais été aussi simple pou
 
 ## Notes
 
-Cette université reprend en partie la confrégrence sur VictoriaMetrics de Julien données à plusieurs conférences dont DevoxxFr récemment: https://youtu.be/bzLtWjUj2k0?si=JSYA_oExB5NHGttj 
+Cette université reprend en partie la confrérence sur VictoriaMetrics de Julien données à plusieurs conférences dont DevoxxFr récemment: https://youtu.be/bzLtWjUj2k0?si=JSYA_oExB5NHGttj 
 
 Mais on souhaiterais aller plus loin notamment avec des vrais démos pratiques de remplacement d'une brique par une autre et couvrir également les parties logs et traces pour lesquelles on rencontre aussi des problèmes de montée en charge avec les solutions actuelles de l'état de l'art.
